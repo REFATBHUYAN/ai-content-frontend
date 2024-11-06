@@ -30,7 +30,7 @@ This is the frontend of the AI Content project, built with **Next.js** and style
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ai-content-frontend.git
+git clone https://github.com/REFATBHUYAN/ai-content-frontend
 cd ai-content-frontend
 ```
 2. Install dependencies:
