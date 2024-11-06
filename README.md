@@ -4,7 +4,7 @@ This is the frontend of the AI Content project, built with **Next.js** and style
 
 ## Live Demo
 
-[Live Frontend URL](https://your-frontend-app.vercel.app) <!-- Replace with actual URL -->
+[Live Frontend URL](https://ai-content-frontend.vercel.app/) <!-- Replace with actual URL -->
 
 ## Features
 
@@ -42,7 +42,7 @@ npm install
 3. Create a .env.local file:
 
 ```bash
-NEXT_PUBLIC_API_BASE_URL=https://your-backend-url.onrender.com
+NEXT_PUBLIC_API_BASE_URL=https://ai-content-backend.onrender.com
 ```
 4. Run the development server:
 
